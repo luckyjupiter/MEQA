@@ -1,4 +1,4 @@
-# MEQA: Mind-Energized Quantum Analysis System
+# MEQA: Mind-Enabled Question Answering
 
 A system for mind-matter interaction research using quantum random number generators and advanced statistical analysis.
 
